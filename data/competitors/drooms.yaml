@@ -1,0 +1,194 @@
+# Drooms — Competitor Profile
+# Last Updated: September 9, 2026
+
+name: Drooms
+website: https://www.drooms.com
+founded: 2001
+headquarters: Frankfurt, Germany & Zug, Switzerland
+ownership: Private — PE-backed (EOS Partners acquired majority stake Jun 2026)
+employees: ~200
+market_position: Europe's leading virtual data room provider
+
+# Company Scale
+scale:
+  total_clients: "40,000+"
+  transaction_value: "€7B+ facilitated"
+  pages_uploaded: "365M+"
+  total_projects: "50,000+"
+  offices: "Frankfurt, London, Paris, Amsterdam, Madrid, Barcelona, Sofia, Munich, Zug"
+
+# Pricing
+pricing:
+  model: Storage + per-user licenses
+  tiers:
+    starter:
+      monthly: "€0/mo"
+      annual: "€0/mo"
+      storage: "150 MB"
+      users: "2 licenses"
+      projects: "3"
+    professional:
+      monthly: "From ~€19/user/mo"
+      annual: "~€17/user/mo"
+      storage: "500 MB – 10 GB"
+      users: "Per-license"
+      projects: "Unlimited"
+    business:
+      monthly: "Custom"
+      storage: "2 GB – 10 GB (upgradeable)"
+      users: "Per-license"
+      projects: "Unlimited"
+    enterprise:
+      monthly: "Contact sales"
+      storage: "Unlimited"
+      users: "Unlimited"
+      projects: "Unlimited"
+  lifecycle_pricing:
+    essential: "€0/mo (10 GB/asset)"
+    advanced: "€19.90/user/mo (min 10 users, 20 GB/asset)"
+    premium: "€49.90/user/mo (min 20 users, 100 GB/asset)"
+  hidden_costs:
+    - Free tier is essentially a trial (150 MB, 2 users, 3 projects)
+    - Pricing scales in two dimensions: storage bands + per-user licenses
+    - Past 10 GB self-service ceiling requires Enterprise quote
+    - No built-in e-signatures (requires separate tool)
+  verdict: Premium pricing with aggressive scaling. Best for EU-focused transactions.
+
+# Product Features
+features:
+  core_platform:
+    - Structured document management & indexing
+    - Granular permission controls & access management
+    - Full audit trails & activity reporting
+    - Q&A workflows with approval routing
+    - Chat collaboration
+    - OCR-based advanced search
+    - Secure file sharing via links
+    - Online Archive for post-transaction storage
+    - Drooms LIFECYCLE (asset lifecycle management for real estate)
+  
+  ai_capabilities:
+    - AI Assistant — conversational Q&A across entire data room
+    - Auto Allocation — auto-organizes files into correct folders
+    - Auto Naming — suggests accurate document names
+    - Redaction — one-click confidential info protection
+    - Document Translation — instant OCR-based translation (7 languages)
+    - Drooms Intelligence (Aug 2026) — natural language analysis with source-linked answers
+    - Customer docs NOT used to train public AI models
+  
+  security:
+    - AES-256 encryption at rest
+    - SSL/TLS encryption in transit
+    - ISO 27001 & ISO 27018 certified
+    - TÜV certified
+    - GDPR-compliant
+    - 100% European data sovereignty (servers in Germany & Switzerland)
+    - 99.9% uptime
+    - Two-factor authentication
+    - No exposure to US CLOUD Act
+
+# Target Audience
+target_audience:
+  - Real estate firms & asset managers
+  - M&A advisory & investment banks
+  - Private equity & venture capital
+  - Legal firms (due diligence)
+  - Fund managers
+  - Corporate finance professionals
+  - Fundraising founders
+  - NPL (Non-Performing Loan) portfolios
+  - Industries: Finance/Insurance (22%), Professional Services (19%), Real Estate (16%)
+
+# Strengths
+strengths:
+  - 25 years of European VDR expertise — first mover in Europe
+  - 100% European digital sovereignty — critical differentiator post-CLOUD Act
+  - Proprietary in-house AI — not reliant on third-party AI services
+  - Strongest real estate focus — Findings Manager with NLP for property DD
+  - 7-language document translation built-in
+  - ISO 27001/27018, TÜV certified — enterprise-grade security
+  - 24/7/365 expert support with dedicated project managers
+  - High Capterra rating (4.5/5) with strong customer service (4.7)
+  - LIFECYCLE product for full asset lifecycle management — unique
+  - Drooms Intelligence — latest AI product making entire data room queryable
+
+# Weaknesses
+weaknesses:
+  - High price — per-user + storage-band scaling adds up fast
+  - Poor/non-intuitive UI — steep learning curve
+  - No native mobile app (no Android app as of 2026)
+  - No screenshot protection / Fence View
+  - No built-in e-signatures
+  - Limited English-language reviews — only 3 G2 reviews, 38 Capterra
+  - 10 GB storage cap forces Enterprise quote for large deals
+  - File download issues — not always reliable
+  - Slow document preview loading
+  - File search ineffective for some extensions
+  - Redaction could be more efficient
+  - Per-page analytics absent — only document-level tracking
+
+# Best For
+best_for:
+  - European M&A transactions requiring GDPR compliance & data sovereignty
+  - Real estate dealmaking — strongest vertical specialization
+  - Cross-border European deals needing multi-language document translation
+  - Regulated industries where data must stay within EU jurisdiction
+  - Asset lifecycle management — buy-hold-sell cycle on one platform
+  - NPL portfolio transactions
+  - Teams wanting in-house AI that never sends data to external services
+
+# Not Ideal For
+not_ideal_for:
+  - US-based organizations needing HIPAA/FISMA compliance or US data residency
+  - Budget-sensitive teams — pricing is premium and scales aggressively
+  - Mobile-first teams — no dedicated Android/iOS apps
+  - Teams needing e-signatures — must use separate tool
+  - Screenshot-protection requirements
+  - Large document libraries (10 GB+) on self-service plans
+  - Non-European markets — limited global data center presence
+
+# Ratings
+ratings:
+  capterra:
+    score: "4.5/5"
+    reviews: 38
+    breakdown:
+      ease_of_use: "4.4"
+      customer_service: "4.7"
+      features: "4.2"
+      value_for_money: "3.9"
+  g2:
+    score: "4.7/5"
+    reviews: 3
+    notes: "Insufficient for buying insight"
+
+# Key Differentiators
+differentiators:
+  - European Digital Sovereignty — 100% EU-owned, EU-hosted, GDPR-compliant
+  - In-house AI — all AI features developed internally; data never leaves platform
+  - Drooms Intelligence (Aug 2026) — query entire data room in natural language
+  - Real Estate LIFECYCLE — only VDR offering full buy-hold-sell asset lifecycle
+  - 7-language document translation — built-in OCR-based
+  - 25-year track record — longest-operating European VDR provider
+  - Drooms Hub model — pay for storage + users, not per data room
+
+# Competitive Positioning
+positioning: >
+  Drooms is the dominant European VDR, strongest in German-speaking markets and real estate.
+  Its sovereignty positioning and in-house AI are genuine differentiators. However, it trails
+  global competitors in English-market reviews, mobile experience, and feature completeness.
+  Premium pricing with aggressive scaling makes it best suited for EU-focused, compliance-heavy
+  transactions.
+
+# Common Complaints (from reviews)
+common_complaints:
+  - "Expensive" — per-user + storage-band scaling adds up fast
+  - "Dated UI" — steep learning curve
+  - "No mobile app" — no Android app as of 2026
+  - "No e-signatures" — requires separate tool
+  - "No screenshot protection" — lacks Fence View
+
+# SpaceNexus Competitive Angle
+spacenexus_angle: >
+  SpaceNexus offers transparent published pricing vs Drooms' premium scaling model,
+  modern mobile-friendly UX vs dated interface, and built-in e-signatures vs separate tool requirement.

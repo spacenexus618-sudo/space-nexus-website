@@ -1,0 +1,174 @@
+# Intralinks (SS&C Intralinks) — Competitor Profile
+# Last Updated: September 9, 2026
+
+name: Intralinks
+parent_company: SS&C Technologies (NASDAQ: SSNC)
+website: https://www.intralinks.com
+founded: 1996
+headquarters: New York City / Waltham, MA, USA
+ownership: Subsidiary of SS&C Technologies (acquired Sep 2018 for $1.5B)
+employees: ~963
+market_position: #1 VDR provider globally; industry standard for bulge-bracket M&A
+
+# Company Scale
+scale:
+  deals_per_year: "10,000+"
+  transaction_value: "$35T+ facilitated"
+  professionals_using: "6.6M+"
+  client_audits_passed: "450+"
+
+# Pricing
+pricing:
+  model: Custom quotes only (per-page + per-user combination)
+  estimated_ranges:
+    small_deal: "$10,000 - $50,000/year"
+    mid_market: "$50,000 - $200,000/year"
+    enterprise: "$200,000+ (up to $150K+/year typical)"
+  median_contract: "~$13,950/year"
+  per_page_rate: "~$0.60/page"
+  hidden_costs:
+    - Storage overages
+    - Duration extension fees
+    - Additional user fees
+    - Professional services not included
+    - Support tier upgrades
+    - ~10% annual price escalation on multi-year contracts
+  verdict: Most complex pricing in VDR category. No published tiers.
+
+# Product Features
+features:
+  core_products:
+    - VDRPro (flagship data room)
+    - DealCentre AI (full deal lifecycle with AI engine "Link")
+    - Elite (lighter secure file sharing ~$25/user/month)
+    - FundCentre (fund management)
+  
+  ai_capabilities:
+    - Link AI engine (purpose-built for dealmaking)
+    - Document summarization
+    - PII detection & redaction
+    - "Ask Link" conversational AI assistant
+    - Smart Q&A with auto-suggested responses
+    - Bulk redaction
+    - Data extraction into structured formats
+    - DealCentre Connect MCP gateway (Claude, Harvey, Hebbia, AlphaSense)
+  
+  security:
+    - AES-256 encryption at rest, in transit, in use
+    - First VDR to achieve ISO 27701 (data privacy)
+    - ISO 27001, SOC 2 Type II, SOC 3, TISAX, PCI DSS (SAQ-D)
+    - GDPR, CCPA, HIPAA, FINRA, SEC, FISMA, FDA 21 CFR Part 11
+    - IRM — control documents even after download
+    - 16 granular permission roles
+    - Dynamic watermarking, SSO, 2FA
+    - RTO: 5 hours
+
+# Target Audience
+target_audience:
+  - Investment banks (bulge-bracket and middle-market)
+  - Private equity firms (GPs and LPs)
+  - Corporate development teams
+  - M&A advisors
+  - Law firms (legal due diligence)
+  - Fund administrators
+  - Compliance officers / regulatory teams
+  - Industries: Financial services, capital markets, real estate, government/defense, life sciences
+
+# Strengths
+strengths:
+  - Market dominance — #1 VDR globally; default at Goldman, Morgan Stanley, JPMorgan
+  - Security credentials — first VDR with ISO 27701; bank-grade security
+  - Post-download control (IRM) — strongest in category
+  - Enterprise integrations — deep API ecosystem, DealCloud/Affinity native
+  - Cross-border capability — 42-country workforce
+  - AI innovation (Link) — purpose-built dealmaking AI
+  - Scale & reliability — handles 10,000+ deals/year
+  - Audit trails — deep reporting and compliance logging
+  - Institutional trust — 25+ year legacy
+  - DealCentre Connect — secure gateway for external AI tools
+
+# Weaknesses
+weaknesses:
+  - Dated UI — most frequent complaint; "clunky," "click-heavy," "non-intuitive"
+  - Ease of use — G2 score 7.5 vs Datasite's 8.9
+  - Opaque pricing — complex per-page + per-user billing
+  - Annual uplift clauses — ~10% annual price escalation
+  - Slow setup — 3-5 day onboarding vs minutes for competitors
+  - Performance issues — lag with large files, upload/download stalling
+  - Support escalation friction
+  - External user friction — painful re-registration
+  - Stagnation perception — G2 product direction score: 5.8
+  - Search limitations — basic keyword search only
+  - Mobile experience — basic browser access only
+
+# Best For
+best_for:
+  - Bulge-bracket M&A deals ($50M+) where counterparty expectation demands Intralinks
+  - Global, multi-jurisdiction transactions
+  - Highly regulated industries (financial services, energy, government)
+  - Large syndicated lending and complex multi-party workflows
+  - Organizations with existing SS&C ecosystem integrations
+  - Deals requiring post-download document control (IRM)
+  - Institutional buyers who prioritize brand trust over UX
+  - Serial acquirers running multiple simultaneous large deals
+
+# Not Ideal For
+not_ideal_for:
+  - First-time acquirers or search funds — UI learning curve too steep
+  - Startups/SMBs doing simple fundraising — cost floor (~$10K+) far too high
+  - Budget-conscious buyers — opaque pricing, hidden fees
+  - Teams valuing fast setup — 3-5 day onboarding vs minutes elsewhere
+  - Mid-market deals ($5-50M) — Firmex, iDeals offer better value
+  - UX-first teams — dated interface frustrates infrequent users
+  - Small projects with limited document volume — per-page billing penalizes
+  - Teams wanting modern search/AI UX
+
+# Ratings
+ratings:
+  g2:
+    score: "3.6/5"
+    reviews: 23
+  capterra:
+    score: "4.1/5"
+    reviews: 20
+  gartner_peer_insights:
+    score: "3.9/5"
+    reviews: 27
+  aggregate:
+    score: "3.7/5"
+    reviews: "45+"
+  notes: >
+    G2 scores Datasite higher across almost every dimension.
+    G2 product direction score (5.8) suggests perceived innovation stagnation.
+
+# Key Differentiators
+differentiators:
+  - IRM (Information Rights Management) — control documents even after download
+  - ISO 27701 first mover — first VDR with data privacy certification
+  - Link AI engine — purpose-built for dealmaking
+  - DealCentre Connect MCP — secure gateway for external AI tools
+  - Institutional brand default — the "safe choice" at bulge-bracket banks
+  - $35T+ transaction history — deepest institutional knowledge
+  - 16 granular permission roles — most detailed RBAC
+  - 450+ client-led audits passed
+
+# Competitive Positioning
+positioning: >
+  Intralinks is the establishment choice — the most trusted, most certified, and most deeply
+  embedded VDR in global finance. It wins on security, compliance, institutional reputation,
+  and post-download control. It loses on UX, pricing transparency, setup speed, and perceived
+  innovation velocity.
+
+# Common Complaints (from reviews)
+common_complaints:
+  - "Dated UI" — most frequent complaint
+  - "Opaque pricing" — no published tiers
+  - "Slow setup" — 3-5 day onboarding
+  - "Annual price escalation" — ~10% increases
+  - "Clunky interface" — click-heavy, non-intuitive
+  - "Performance issues" — lag with large files
+
+# SpaceNexus Competitive Angle
+spacenexus_angle: >
+  SpaceNexus offers transparent published pricing vs Intralinks' opaque per-page billing,
+  modern UX vs dated interface, and setup in under 24 hours vs 3-5 day onboarding.

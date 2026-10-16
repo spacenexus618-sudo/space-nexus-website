@@ -1,0 +1,170 @@
+# Ansarada — Competitor Profile
+# Last Updated: September 9, 2026
+
+name: Ansarada
+website: https://www.ansarada.com
+founded: 2005
+headquarters: Sydney, Australia
+ownership: Acquired by Datasite (Aug 2024); formerly ASX-listed
+employees: ~129
+revenue: ~$37.8M annual
+market_position: Dominant player in ANZ/Benelux/South Africa; AI-native VDR
+
+# Company Scale
+scale:
+  total_customers: "10,312+"
+  organizations: "948,000+"
+  countries: "170+"
+  offices: "Sydney, London, Amsterdam, Berlin, Chicago, Dubai, Ho Chi Minh City, Johannesburg, Riyadh, Zurich"
+
+# Pricing
+pricing:
+  model: Storage-based (not per-user)
+  users: Unlimited (all plans)
+  tiers:
+    entry:
+      storage: "250 MB"
+      monthly: "$244/mo (12-mo term)"
+    enterprise:
+      storage: "20 GB"
+      monthly: "$5,134/mo (12-mo term)"
+    custom:
+      storage: ">20 GB"
+      monthly: "Negotiated"
+  free_prep_phase: "No charge until first external guest invited or 90 days elapse"
+  overage_fees: "$94–$349 per block (50–200 MB per block)"
+  hidden_costs:
+    - Storage overages trigger automatically at peak usage
+    - Plan upgrades/downgrades locked after go-live
+    - Free period clock starts at room creation, not first upload
+    - AI features only available on paid plans
+    - Complex multi-bidder permission design consumes time
+  verdict: Expensive, unpredictable, storage-based model causes surprise charges.
+
+# Product Features
+features:
+  core_capabilities:
+    - Deal Lifecycle Management (preparation, deal marketing, diligence, post-merger)
+    - Procure Module (infrastructure procurement)
+    - Unlimited Users
+    - Q&A Module (automated with SME routing)
+    - Secure Sharing (remote document destruct, dynamic watermarking)
+  
+  ai_suite:
+    - Ask AiDA (AI assistant — semantic search, summarization, citations)
+    - AI-Sort (auto-classifies and indexes documents)
+    - AI-Translate (in-room translation — Japanese, German, French, Spanish, Dutch, Vietnamese)
+    - AI-Redact (bulk redaction across 500+ documents)
+    - AI-Predict (bidder engagement scoring — claims 97% accuracy by day 7)
+  
+  security:
+    - ISO 27001:2022 certified, SOC 2 Type II compliant
+    - Aligns with ISO/IEC 42001 (AI governance)
+    - GDPR compliant
+    - AES-256 encryption, dynamic watermarking, remote doc-destruct
+    - Access permissions respected by AI
+
+# Target Audience
+target_audience:
+  - M&A (Sell-side & Buy-side) — primary
+  - Investment Banks & Advisors — 10 of top 10 use Ansarada
+  - Law Firms — 10 of top 10 use Ansarada
+  - Private Equity & VC
+  - Corporates (IPO, Restructuring)
+  - Government & Infrastructure (Procure module)
+
+# Strengths
+strengths:
+  - AI-native architecture — built around AI, not bolted on
+  - Security posture — ISO 27001, SOC 2, GDPR, AES-256
+  - Unlimited users — no per-seat pricing
+  - 24/7 support — frequently praised
+  - Ease of use — G2 score 9.2/10
+  - Fast setup — drag-and-drop, minutes to start
+  - Comprehensive Q&A automation
+  - Deal readiness assets — templates, checklists from 30K+ deals
+  - AI-Predict bidder scoring — unique differentiator
+  - Strong reporting suite
+
+# Weaknesses
+weaknesses:
+  - Expensive, unpredictable pricing — storage-based model
+  - Dated UI — described as "early 2000s software"
+  - Large file handling — slow uploads, search, access
+  - Mobile experience — browser-based only, no robust native app
+  - AI reliability — AiDA called "unreliable/disconnected" by some reviewers
+  - Learning curve — advanced features require onboarding
+  - Q&A UX limitations
+  - Session issues — frequent logouts reported
+  - Vendor lock-in — switching mid-deal extremely costly
+  - Support consistency declining post-Datasite acquisition
+
+# Best For
+best_for:
+  - Large, complex M&A transactions (>$50M deals)
+  - Sell-side processes requiring bidder engagement analytics
+  - Cross-border deals leveraging AI-Translate
+  - Enterprise-grade security requirements
+  - Advisory firms running 3+ concurrent deals
+  - Infrastructure procurement (Procure module)
+  - Organizations in the Datasite ecosystem
+
+# Not Ideal For
+not_ideal_for:
+  - Startups & early-stage companies
+  - Small deals / seed rounds
+  - Boutique advisors running 1–2 deals/year
+  - Teams needing lightweight, modern UX
+  - Budget-conscious organizations
+  - Teams needing deep CRM/ERP integrations
+  - Mobile-first teams
+  - Quick, simple document sharing
+
+# Ratings
+ratings:
+  g2:
+    score: "4.6/5"
+    reviews: 161
+    subscores:
+      document_management: "9.7"
+      quality_of_support: "9.3"
+      ease_of_use: "9.2"
+      bulk_upload: "9.1"
+      security: "9.1"
+  capterra:
+    score: "4.7/5"
+    reviews: 115
+  aggregate:
+    score: "4.6/5"
+    reviews: "~353"
+
+# Key Differentiators
+differentiators:
+  - AI-Predict (Bidder Scoring) — claims 97% accuracy predicting winning buyer by day 7
+  - AI-Native Architecture — rebuilt from ground up around AI (RAG, semantic search)
+  - Free Preparation Phase — no charges until first external guest
+  - Unlimited Users — no per-seat pricing
+  - Deal Readiness Assets — pre-built templates from 30,000+ deals
+  - Procure Module — purpose-built for infrastructure procurement
+  - Remote Document Destruct — revoke access even after documents leave room
+  - Data Gauge — shows estimated costs before commitment
+
+# Competitive Positioning
+positioning: >
+  Ansarada is the AI-native VDR leader in ANZ/Benelux. It wins on AI capabilities,
+  unlimited users, and free preparation phase. It loses on pricing predictability,
+  UI modernity, and mobile experience. The ideal competitive angle is to attack
+  pricing unpredictability and dated interface while acknowledging AI strengths.
+
+# Common Complaints (from reviews)
+common_complaints:
+  - "Expensive" — storage-based model causes surprise charges
+  - "Dated UI" — described as "early 2000s software"
+  - "AI unreliable" — AiDA called disconnected by some
+  - "Mobile experience" — no robust native app
+  - "Vendor lock-in" — switching mid-deal extremely costly
+
+# SpaceNexus Competitive Angle
+spacenexus_angle: >
+  SpaceNexus offers transparent published pricing vs Ansarada's unpredictable storage-based model,
+  modern UX vs dated interface, and setup in under 24 hours with no vendor lock-in.

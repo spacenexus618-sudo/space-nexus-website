@@ -1,0 +1,155 @@
+# Datasite (formerly Merrill Datasite) — Competitor Profile
+# Last Updated: September 9, 2026
+
+name: Datasite
+formerly: Merrill DatasiteOne
+website: https://datasite.com
+founded: 1968
+headquarters: Minneapolis, Minnesota, USA
+ownership: Private
+employees: ~500+
+market_position: Top-tier VDR; powers 4 of the top 5 global M&A deals
+
+# Company Scale
+scale:
+  transactions_per_year: "16,000+"
+  total_users: "1.8M+"
+  countries: "180+"
+
+# Pricing
+pricing:
+  model: Custom quotes only (no published tiers)
+  avg_smb_cost: "$31,368/year"
+  avg_enterprise_cost: "$113,465/year"
+  discount_avg: "8% negotiable"
+  users: Unlimited (all plans)
+  storage: "Tiered: 250MB to 20GB+"
+  hidden_costs:
+    - Storage overage billed at peak usage
+    - 90-day clock starts at room creation, not upload
+    - Plans locked once room is live until term ends
+  verdict: Premium pricing. No published tiers — everything requires a quote.
+
+# Product Features
+features:
+  core_products:
+    - Datasite Pipeline (deal sourcing)
+    - Datasite Prepare (sell-side preparation)
+    - Datasite Diligence (sell-side data room — flagship)
+    - Datasite Acquire (buy-side diligence)
+    - Datasite Outreach (deal marketing)
+  
+  ai_capabilities:
+    - MCP Server (first VDR to offer this)
+    - Semantic search via Blueflame AI
+    - Automated redaction AI
+    - AI-generated document summaries
+    - AI-assisted Q&A with citations
+    - Full document translation (17+ languages)
+    - Duplicate question detection
+    - Pre-launch readiness audits
+  
+  security:
+    - ISO/IEC 27001, 27017, 27018, 27701, 42001 (first VDR certified for responsible AI governance)
+    - SOC 2 Type II
+    - AES-256 encryption at rest, TLS in transit
+    - SSO, MFA, IRM
+    - Dynamic watermarking, granular audit trails
+    - GDPR, CPRA compliant
+
+# Target Audience
+target_audience:
+  - Investment banks
+  - Private equity firms
+  - Corporate development teams
+  - Law firms
+  - Restructuring & capital raising
+  - Cross-border / international transactions
+  - Large-cap M&A processes
+
+# Strengths
+strengths:
+  - Ease of use — intuitive UI praised across 178+ G2 mentions
+  - AI innovation — MCP server is a category-first
+  - Security — widest set of certifications including ISO 42001
+  - 24/7/365 support in 20+ languages with dedicated Project Pros
+  - Unlimited users — no per-seat cost
+  - Q&A functionality — best-in-class per reviewer feedback
+  - Redaction & translation — seamless, built-in
+  - Market trust — 50 years of capital markets experience
+
+# Weaknesses
+weaknesses:
+  - Expensive / predatory pricing (G2: 44 mentions)
+  - Slow document review in large rooms
+  - Search doesn't work within documents (title-only)
+  - Mobile app feels clunky vs desktop
+  - Overwhelming notification system
+  - Access control management is complicated (G2: 23 mentions)
+  - Limited UI customization
+  - Slow performance / login delays (G2: 37 mentions)
+  - No FedRAMP or CMMC
+  - Storage overage costs
+
+# Best For
+best_for:
+  - Complex sell-side M&A with large document volumes
+  - Multi-party, multi-round diligence processes
+  - Investment banks & PE firms where counterparty expectations matter
+  - Teams needing AI-assisted redaction, translation, and Q&A
+  - Cross-border deals requiring multilingual support
+  - Organizations with long preparation runway before going to market
+
+# Not Ideal For
+not_ideal_for:
+  - Budget-conscious teams — pricing is prohibitive for small deals
+  - Small/mid-market single transactions — overkill for simple diligence
+  - Defense & aerospace — no FedRAMP/CMMC
+  - Teams needing full-text search within documents
+  - Rapid room setup — locked plans prevent changes mid-deal
+  - Organizations requiring deep CRM/integration ecosystems
+
+# Ratings
+ratings:
+  g2:
+    score: "4.4-4.5/5"
+    reviews: 418
+    notes: "66% five-star; G2 recognized badge"
+  capterra:
+    score: "4.7/5"
+    reviews: 143
+    notes: "98% positive sentiment; Best Ease of Use"
+  software_advice:
+    score: "4.7/5"
+    reviews: 143
+
+# Key Differentiators
+differentiators:
+  - First VDR with MCP server — AI assistants work inside the data room
+  - Blueflame AI — enterprise-grade semantic search acquired in 2025
+  - End-to-end deal lifecycle — not just a data room
+  - ISO 42001 certified — first VDR for responsible AI governance
+  - 50 years of M&A-specific expertise
+  - Unlimited users — no per-seat scaling penalty
+  - Acquired Firmex — owns both premium and value market segments
+
+# Competitive Positioning
+positioning: >
+  Datasite is the premium, AI-innovative VDR leader. It wins on ease of use, AI capabilities,
+  and security certifications. It loses on pricing opacity and premium costs. The ideal competitive
+  angle is to attack pricing transparency, cost, and setup speed while acknowledging their
+  AI and security strengths.
+
+# Common Complaints (from reviews)
+common_complaints:
+  - "Expensive" — most frequent complaint
+  - "Opaque pricing" — no published tiers
+  - "Slow performance" — login delays, document loading
+  - "Complex access control" — steep learning curve for permissions
+  - "Storage overage costs" — surprise charges
+
+# SpaceNexus Competitive Angle
+spacenexus_angle: >
+  SpaceNexus offers transparent published pricing vs Datasite's opaque quotes,
+  AI document redaction built-in vs expensive add-ons, and setup in under 24 hours
+  vs days-long onboarding.

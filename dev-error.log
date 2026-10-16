@@ -1,0 +1,14 @@
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+⨯ Error: Invalid OpenGraph type: guide
+    at ignore-listed frames {
+  digest: '1882071865@E237'
+}
+⨯ Error: Invalid OpenGraph type: guide
+    at ignore-listed frames {
+  digest: '1882071865@E237'
+}
+⨯ Error: Invalid OpenGraph type: guide
+    at ignore-listed frames {
+  digest: '1882071865@E237'
+}
